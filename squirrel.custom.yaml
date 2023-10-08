@@ -64,7 +64,7 @@ patch:
     com.sublimetext.4:
       ascii_mode: false
       inline: true
-    org.alacritty.1:
+    org.alacritty:
       ascii_mode: true
       inline: true
     ru.keepcoder.Telegram:
