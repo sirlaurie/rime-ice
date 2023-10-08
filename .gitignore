@@ -1,7 +1,10 @@
 .DS_Store
 **/.idea/
 .vscode/
-
+*userdb/*.log
+*userdb/LO*
+*userdb/CURRENT
+*userdb/MANIFEST*
 build/
 
 others/script/scel2txt/out/*
