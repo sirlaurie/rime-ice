@@ -1,12 +1,9 @@
 .DS_Store
 **/.idea/
 .vscode/
-*userdb/*.log
-*userdb/LO*
-*userdb/CURRENT
-*userdb/MANIFEST*
+*userdb/*
 build/
-
+user.yaml
 others/script/scel2txt/out/*
 others/script/scel2txt/scel/*
 cn_dicts/temp.txt
