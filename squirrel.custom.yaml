@@ -53,9 +53,6 @@ patch:
     com.googlecode.iterm2:
       ascii_mode: true
       inline: true
-    com.macromates.TextMate.preview:
-      ascii_mode: true
-      inline: true
     com.microsoft.VSCode:
       ascii_mode: true
       inline: true
@@ -69,4 +66,7 @@ patch:
       ascii_mode: true
       inline: true
     ru.keepcoder.Telegram:
+      inline: true
+    net.kovidgoyal.kitty:
+      ascii_mode: false
       inline: true
